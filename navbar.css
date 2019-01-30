@@ -1,0 +1,17 @@
+#navbar{
+    
+}
+
+#navbar a {
+    border: 2px solid purple;
+    padding: 10px;
+    background-color:lightgreen;
+}
+
+#navbar a:hover{
+    background-color:pink;
+}
+
+#navbar li {
+    display:inline-block;
+}
